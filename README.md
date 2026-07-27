@@ -432,6 +432,7 @@ Local model running tools are essential for agent local deployment — fully sol
 |---|---|---|
 | **OSWorld** | Desktop GUI operation environment; 15-step and 50-step tasks | Agent S2 (Simular): 34.5% (50-step) |
 | **WebArena** | Web interaction task simulator | Multiple frameworks competing |
+| **[ClawBench](https://github.com/TIGER-AI-Lab/ClawBench)** | Live-web browser-agent benchmark with 283 tasks across 144 websites and five-layer execution traces | [Public leaderboard](https://huggingface.co/spaces/TIGER-Lab/ClawBench) |
 | **GAIA** | General AI agent benchmark; multi-step real-world tasks | Various agent frameworks competing |
 
 ### Agent Evaluation Frameworks
